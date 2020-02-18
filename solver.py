@@ -61,5 +61,5 @@ def check_if_valid(grid, num, pos):
                 return False
 
     return True
-print(solve(board))
-print(display_board(board))
+
+#call the function below this
