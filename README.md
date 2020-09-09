@@ -1,5 +1,5 @@
 # sudoku-solver
-simple-complex backtracking algorithm for solving a sudoku puzzle
+simple backtracking algorithm for solving a sudoku puzzle
 
 HOW TO RUN
 
